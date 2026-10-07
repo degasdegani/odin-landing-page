@@ -203,3 +203,16 @@ header,
   font-weight: 700;
   cursor: pointer;
 }
+
+/* Footer */
+footer {
+  padding: 40px 0;
+  background-color: #1f2937;
+  text-align: center;
+}
+
+footer p {
+  margin: 0;
+  font-size: 16px;
+  color: #f9faf8;
+}
