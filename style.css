@@ -161,3 +161,45 @@ header,
   font-weight: 700;
   color: #1f2937;
 }
+
+/* Call to action section */
+.cta {
+  padding: 100px 0;
+}
+
+.cta-box {
+  box-sizing: border-box;
+  max-width: 1024px;
+  margin: 0 auto;
+  padding: 50px 120px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 8px;
+  background-color: #3882f6;
+}
+
+.cta-text h2 {
+  margin: 0;
+  font-size: 24px;
+  font-weight: 700;
+  color: #f9faf8;
+}
+
+.cta-text p {
+  margin: 4px 0 0 0;
+  font-size: 18px;
+  color: #f9faf8;
+}
+
+.cta-box button {
+  padding: 10px 36px;
+  border: 2px solid #f9faf8;
+  border-radius: 6px;
+  background-color: #3882f6;
+  color: #f9faf8;
+  font-family: inherit;
+  font-size: 18px;
+  font-weight: 700;
+  cursor: pointer;
+}
